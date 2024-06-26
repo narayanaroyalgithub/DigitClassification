@@ -1,7 +1,7 @@
-### MNIST is a classification dataset where the target variable is categorical (0 to 9). Hence classification algorithms are used to train this dataset.
+# MNIST is a classification dataset where the target variable is categorical (0 to 9). Hence classification algorithms are used to train this dataset.
 
 
-### The following approaches are used to handle the given data.
+# The following approaches are used to handle the given data.
 
 ## Logistic Regression: This approach is chosen for its simplicity and ease of interpretation, making it an ideal starting point for classification tasks. While it may not capture complex patterns like more advanced models, it provides a basic understanding of the data.
 ## Support Vector Machines (SVMs): This algorithm is suitable for the non-linear and complex datasets. Their ability to capture intricate patterns promises high classification accuracy.
